@@ -10,7 +10,7 @@ namespace _01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Iniciando com os em C#: do fácil ao avançado.");
+            Console.WriteLine("Iniciando com os estudos em C#: do fácil ao avançado.");
         }
     }
 }
