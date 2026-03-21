@@ -1,0 +1,7 @@
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\03_Input e Output\bin\Debug\03_Input e Output.exe.config
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\03_Input e Output\bin\Debug\03_Input e Output.exe
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\03_Input e Output\bin\Debug\03_Input e Output.pdb
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\03_Input e Output\obj\Debug\03_Input e Output.csproj.AssemblyReference.cache
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\03_Input e Output\obj\Debug\03_Input e Output.csproj.CoreCompileInputs.cache
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\03_Input e Output\obj\Debug\03_Input e Output.exe
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\03_Input e Output\obj\Debug\03_Input e Output.pdb
