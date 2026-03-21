@@ -1,0 +1,7 @@
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\05_Estrutura condicional if-else\bin\Debug\05_Estrutura condicional if-else.exe.config
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\05_Estrutura condicional if-else\bin\Debug\05_Estrutura condicional if-else.exe
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\05_Estrutura condicional if-else\bin\Debug\05_Estrutura condicional if-else.pdb
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\05_Estrutura condicional if-else\obj\Debug\05_Estrutura condicional if-else.csproj.AssemblyReference.cache
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\05_Estrutura condicional if-else\obj\Debug\05_Estrutura condicional if-else.csproj.CoreCompileInputs.cache
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\05_Estrutura condicional if-else\obj\Debug\05_Estrutura condicional if-else.exe
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\05_Estrutura condicional if-else\obj\Debug\05_Estrutura condicional if-else.pdb
