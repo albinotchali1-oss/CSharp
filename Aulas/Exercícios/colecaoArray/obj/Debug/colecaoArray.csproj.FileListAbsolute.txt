@@ -1,0 +1,11 @@
+C:\Users\albin\Documents\c#\windows form\colecaoArray\bin\Debug\colecaoArray.exe.config
+C:\Users\albin\Documents\c#\windows form\colecaoArray\bin\Debug\colecaoArray.exe
+C:\Users\albin\Documents\c#\windows form\colecaoArray\bin\Debug\colecaoArray.pdb
+C:\Users\albin\Documents\c#\windows form\colecaoArray\obj\Debug\colecaoArray.csproj.AssemblyReference.cache
+C:\Users\albin\Documents\c#\windows form\colecaoArray\obj\Debug\colecaoArray.Form1.resources
+C:\Users\albin\Documents\c#\windows form\colecaoArray\obj\Debug\colecaoArray.Properties.Resources.resources
+C:\Users\albin\Documents\c#\windows form\colecaoArray\obj\Debug\colecaoArray.csproj.GenerateResource.cache
+C:\Users\albin\Documents\c#\windows form\colecaoArray\obj\Debug\colecaoArray.csproj.CoreCompileInputs.cache
+C:\Users\albin\Documents\c#\windows form\colecaoArray\obj\Debug\colecaoArray.exe
+C:\Users\albin\Documents\c#\windows form\colecaoArray\obj\Debug\colecaoArray.pdb
+C:\Users\albin\Documents\c#\windows form\colecaoArray\obj\Debug\colecaoArray.exe.config
