@@ -1,0 +1,12 @@
+C:\Users\albin\Documents\c#\windows form\AppEscola\bin\Debug\AppEscola.exe.config
+C:\Users\albin\Documents\c#\windows form\AppEscola\bin\Debug\AppEscola.exe
+C:\Users\albin\Documents\c#\windows form\AppEscola\bin\Debug\AppEscola.pdb
+C:\Users\albin\Documents\c#\windows form\AppEscola\obj\Debug\AppEscola.csproj.AssemblyReference.cache
+C:\Users\albin\Documents\c#\windows form\AppEscola\obj\Debug\AppEscola.Properties.Resources.resources
+C:\Users\albin\Documents\c#\windows form\AppEscola\obj\Debug\AppEscola.csproj.GenerateResource.cache
+C:\Users\albin\Documents\c#\windows form\AppEscola\obj\Debug\AppEscola.csproj.CoreCompileInputs.cache
+C:\Users\albin\Documents\c#\windows form\AppEscola\obj\Debug\AppEscola.exe
+C:\Users\albin\Documents\c#\windows form\AppEscola\obj\Debug\AppEscola.pdb
+C:\Users\albin\Documents\c#\windows form\AppEscola\obj\Debug\AppEscola.exe.config
+C:\Users\albin\Documents\c#\windows form\AppEscola\obj\Debug\AppEscola.FormMain.resources
+C:\Users\albin\Documents\c#\windows form\AppEscola\obj\Debug\AppEscola.FormLogin.resources
