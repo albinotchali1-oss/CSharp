@@ -1,0 +1,10 @@
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\ManipulacaoDeCores\bin\Debug\ManipulacaoDeCores.exe.config
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\ManipulacaoDeCores\bin\Debug\ManipulacaoDeCores.exe
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\ManipulacaoDeCores\bin\Debug\ManipulacaoDeCores.pdb
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\ManipulacaoDeCores\obj\Debug\ManipulacaoDeCores.csproj.AssemblyReference.cache
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\ManipulacaoDeCores\obj\Debug\ManipulacaoDeCores.Form1.resources
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\ManipulacaoDeCores\obj\Debug\ManipulacaoDeCores.Properties.Resources.resources
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\ManipulacaoDeCores\obj\Debug\ManipulacaoDeCores.csproj.GenerateResource.cache
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\ManipulacaoDeCores\obj\Debug\ManipulacaoDeCores.csproj.CoreCompileInputs.cache
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\ManipulacaoDeCores\obj\Debug\ManipulacaoDeCores.exe
+C:\Users\albin\Documents\MeusProjetos\CSharp\Exercícios\ManipulacaoDeCores\obj\Debug\ManipulacaoDeCores.pdb
